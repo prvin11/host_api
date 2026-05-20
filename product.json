@@ -1,10 +1,10 @@
 [
   {
-    "Product": "Bicycle"
+    "Product": "Bicycle",
     "Cost": 2000
   },
   {
-    "Product": "Car"
+    "Product": "Car",
     "Cost": 50000
   }
 ]
